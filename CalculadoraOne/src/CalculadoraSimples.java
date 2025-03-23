@@ -41,7 +41,7 @@ public class CalculadoraSimples {
                 break;
 
             case 4:
-                resultado = num1*num2;
+                resultado = num1-num2;
                 operação = "Subtração";
                 break;
                 
